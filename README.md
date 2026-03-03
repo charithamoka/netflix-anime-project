@@ -1,4 +1,4 @@
-# netflix-anime-project
+# Netflix-anime-project
 
 ## Project Title
 
