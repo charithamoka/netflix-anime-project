@@ -33,3 +33,7 @@ Mandarin    7.600000
 - Higher-rated titles tend to be TV series rather than movies
 
 - The distribution shows most titles fall between 7 - 7.5
+
+## Architecture
+
+CSV → Pandas (Cleaning & Feature Engineering) → SQLite (SQL Aggregations) → Visualizations & Insights
